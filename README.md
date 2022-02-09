@@ -56,9 +56,9 @@ contain string : oo
 
 
 ##
-Example 5 : Regular expression
-I don't know how to spell "suffer"
-I only know it starts with "su", and follow two letters, and end with "er"
+Example 5 : Regular expression     
+I don't know how to spell "suffer"     
+I only know it starts with "su", and follow two letters, and end with "er"   
 
 
 
