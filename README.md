@@ -1,10 +1,11 @@
 # spelling-helper
-Help ESL english students to spelling and write an essay, Can search the words that student cannot spell
-
+Help ESL english students to spelling and write an essay, Can search the words that student cannot spell     
 Dic file has 29,000 words,
 Wiki file has 150,000 words,
-It uses color highlight to show matched letters.
+It uses color highlight to show matched letters.    
+This is the demo https://koooe.github.io/s_helper
 
+##
 S is start letter.
 M is letters at middle, and follow order.
 L is letters at middle, but not follow order.
@@ -58,8 +59,22 @@ I only know it starts with "su", and follow two letters, and end with "er"
 
 ![ex_5](https://user-images.githubusercontent.com/98500513/153249175-565186a1-ec92-49c9-96a0-a8a329225f89.jpg)
 
+ 
+# Online version
+
+![sc1](https://user-images.githubusercontent.com/98500513/153249589-976efcd5-b80a-49b0-8f7d-81ac46dc0b02.png)
+
+![sc2](https://user-images.githubusercontent.com/98500513/153249600-87187061-024e-4eb0-aa14-a92374fee55f.png)
+
+![sc3](https://user-images.githubusercontent.com/98500513/153249613-8b636261-ffea-4427-a768-2fd075bfd634.png)
 
 
+# For Developer
+
+The project use JDK8 and NetBeans IDE 12.6    
+The Online version only run on server
+
+![netbeans](https://user-images.githubusercontent.com/98500513/153250444-1c7da43e-1af3-445d-b670-d96468c3d882.png)
 
 
 
