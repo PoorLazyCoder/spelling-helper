@@ -76,7 +76,7 @@ I only know it starts with "su", and follow two letters, and end with "er"
 
 # For Developer
 
-The project uses JDK8 and NetBeans IDE 12.6    
+The project uses JDK8 and NetBeans IDE 12.6, The Main Class is desktop.DesktopUi.java
 The Online version only run on server, for example  https:// localhost/. The Online version's source code is outdate, and no longer be can compiled, so it is not included.
 
 ![netbeans](https://user-images.githubusercontent.com/98500513/153250444-1c7da43e-1af3-445d-b670-d96468c3d882.png)
