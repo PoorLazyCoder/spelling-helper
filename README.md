@@ -11,6 +11,11 @@ M is letters at middle, and follow order.
 L is letters at middle, but not follow order.
 E is end letter.
 
+Use color highlight, to show color
+
+![hight light](https://user-images.githubusercontent.com/98500513/153254611-1b487b81-432b-4a73-aebe-3b36e05ac338.JPG)
+
+
 ##
 
 Example 1 : I don't know how to spell "furniture"    
@@ -71,8 +76,8 @@ I only know it starts with "su", and follow two letters, and end with "er"
 
 # For Developer
 
-The project use JDK8 and NetBeans IDE 12.6    
-The Online version only run on server, for example  https:// localhost/. The Online version's source code is outdate, and no longer be can compile, so it is not included.
+The project uses JDK8 and NetBeans IDE 12.6    
+The Online version only run on server, for example  https:// localhost/. The Online version's source code is outdate, and no longer be can compiled, so it is not included.
 
 ![netbeans](https://user-images.githubusercontent.com/98500513/153250444-1c7da43e-1af3-445d-b670-d96468c3d882.png)
 
