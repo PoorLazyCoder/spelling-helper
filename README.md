@@ -41,6 +41,26 @@ length > 8
 ![ex_3](https://user-images.githubusercontent.com/98500513/153248783-41891a0b-6a6f-4e21-8b10-d7dc07fccde6.jpg)
 
 
+##
+Example 4: "raccoon"   
+start : r   
+contain string : oo   
+
+![ex_4](https://user-images.githubusercontent.com/98500513/153249039-f7001790-0182-4bae-a729-d25b938a9ea2.jpg)
+
+
+##
+Example 5 : Regular expression
+I don't know how to spell "suffer"
+I only know it starts with "su", and follow two letters, and end with "er"
+
+
+
+![ex_5](https://user-images.githubusercontent.com/98500513/153249175-565186a1-ec92-49c9-96a0-a8a329225f89.jpg)
+
+
+
+
 
 
 
